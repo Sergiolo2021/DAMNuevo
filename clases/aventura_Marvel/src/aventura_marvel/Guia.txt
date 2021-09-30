@@ -1,0 +1,46 @@
+/*
+	Elegir tematica -> Marvel
+	Atributos -> vida, singularidad y niveles de singularidad, sinergias, hacer alguna forma para que puedan subir niveles a su personaje 
+	Sistema -> un camino con varios personajes y los 5 personajes de la persona van avanzando y pueden morir tendra 300 runas y podra revivir y subir la vida gastandolas y potenciadores (si sale del jego o muere se reinician las runas)
+				se puede hacer que con teclas aleatorias salga cada vez que le des (5 golpes por cada vez) le baje x de vida en funcion de su personaje y niveles, despues saldran 5 numeros que sera lo que le bajo el personaje del camino
+	Dessarrollar la historia -> 
+	
+	
+	//meter probabilidad de critico con lo que hara mas daño
+	
+
+	---Abrir 5 cristales 
+	
+	---buscar como se podria meter que pase algo y el jyugador tenga que dar a enter o algun boton para seguir la historia
+	 */
+	
+	/*
+	//Clases
+		//***Aventura -> surgiran todos los acontecimientos (aqui utilizare la clase personajes para crearlos)
+		//Jugador
+		//Mision
+			//personajes preestablecidos
+		//***Personaje (mision o personajes heredarian del otro)
+                    
+                        String nombre;
+                        int vida;
+                        int nivel;
+                        int singularidad;//sera un numero de veces que se haya duplicado (x20 cada vez que se dupliqie) cuanta mas duplica mas habilidades especiales
+                        int sinergias;//cuantas mas sinergias mas ataque tendra
+                        int danio;
+                    
+	
+	//------- no se permitira subir la vida a un personaje que este muerto------
+		int precio;//
+                String tipo;
+                boolean basico;//20% de vida
+                boolean normal;//40% de vida
+                boolean grande;//70% de vida
+
+                boolean individual;
+                boolean grupal;
+			
+		//Runas -> se podran comprar con dinero real	
+		//Pruebas -> definira el camino con los obstaculos (personajes yt jefe) y como seran 
+		
+	*/

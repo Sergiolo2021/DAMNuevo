@@ -1,0 +1,9 @@
+despues de crear borrar modificar etc tendremos que hacer
+
+git add [nombre de lo que hemos modificado]
+
+git commit 
+	escribimos el mensaje en la primera linea
+	presionamos esc, escribimos :wq y enter
+
+git push
